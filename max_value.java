@@ -21,4 +21,9 @@ public class max_value {
         }
         return max;
     }
+
+    @Override
+    public String toString() {
+        return "check []";
+    }
 }
