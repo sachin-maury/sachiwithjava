@@ -9,7 +9,7 @@ public class dsa2_arry {
         marks [2] =sc.nextInt();
         System.out.println("physics :"+ marks [0]);
         System.out.println("chemistry :"+ marks [1]);
-        System.out.println("math :"+ marks [2]);
+        System.out.println("math :"+ marks [2]
 
     }
 }
