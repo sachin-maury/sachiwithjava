@@ -10,6 +10,7 @@ public class dsa2_arry {
         System.out.println("physics :"+ marks [0]);
         System.out.println("chemistry :"+ marks [1]);
         System.out.println("math :"+ marks [2]);
+        System.out.println("Kotlin"+ marks [5]);
 
     }
 }
