@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class practice3 {
+public class practice5 {
     public static void main(String[] args) {
         System.out.println("Enter your number");
       Scanner sc = new Scanner(System.in);
